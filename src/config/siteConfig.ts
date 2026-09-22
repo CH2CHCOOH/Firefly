@@ -40,10 +40,10 @@ const pages = resolvePageToggles({
 
 export const siteConfig: SiteConfig = {
 	// 站点标题
-	title: "烯酸blog",
+	title: "烯酸 ch2chcooh",
 
 	// 站点副标题
-	subtitle: "ch2chcooh",
+	subtitle: "搞点事情",
 
 	// 站点 URL
 	site_url: "http://572621.xyz",
